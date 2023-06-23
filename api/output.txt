@@ -1,18 +1,24 @@
-{
-    "name": "John Doe",
-    "age": 30,
-    "email": "johndoe@example.com",
-    "trainingHash": "http://rose-robust-barracuda-701.mypinata.cloud/ipfs/QmfTP99gfdxkGEbxUEMwNXNqw67GZjacdRjT9ucxWA8Ljw",
-    "address": {
-        "street": "123 Main Street",
-        "city": "New York",
-        "state": "NY",
-        "zipcode": "10001"
-    },
-    "interests": [
-        "programming",
-        "reading",
-        "traveling"
+[
+    "4",
+    "0",
+    "1687457245",
+    "0x84d1d7a0bD026F38A34356fd6d086235dA48F248",
+    "0x0000000000000000000000000000000000000000",
+    "Task 5",
+    "CAT-II",
+    "SVG",
+    "http://rose-robust-barracuda-701.mypinata.cloud/ipfs/QmfTP99gfdxkGEbxUEMwNXNqw67GZjacdRjT9ucxWA8Ljw",
+    "http://rose-robust-barracuda-701.mypinata.cloud/ipfs/QmfTP99gfdxkGEbxUEMwNXNqw67GZjacdRjT9ucxWA8Ljw",
+    "",
+    "Time",
+    [
+        "Accuracy",
+        "False positive",
+        "False negative"
     ],
-    "is_student": true
-}
+    [
+        "Address",
+        "Amount",
+        "Time"
+    ]
+]
